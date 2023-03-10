@@ -1,5 +1,5 @@
 # GameProgrammingLanguage
-School Lecture
+School Lecture - 
 
 Team
 SniKuz 김건하
