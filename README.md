@@ -1,5 +1,5 @@
 # GameProgrammingLanguage
-School Lecture - 
+School Lecture - Copy DunGreed
 
 Team
 SniKuz 김건하
